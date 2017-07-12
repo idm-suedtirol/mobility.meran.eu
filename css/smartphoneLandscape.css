@@ -1,0 +1,15 @@
+
+.config, #zoomToMyPosition{
+	width:20%;
+}
+#zoomButtons{
+	width:4%;
+}
+#switcheroo{
+	margin-top:auto;
+	font-size:12px;
+	padding:5px;
+}
+.ibutton{
+	background-size:50%;
+}

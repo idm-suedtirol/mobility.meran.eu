@@ -1,0 +1,102 @@
+
+#map-container{width:100%;position:absolute;top:43px;bottom:0;left:0;right:0}
+div.olMap{width:100%;height:100%;position:absolute}
+.header-mobile{display:block;position:relative;width:100%;height:12vh;padding:0;background:#fff;border-bottom:0;box-shadow:0 0 0;z-index:5000;}
+.header-mobile>*{float:left;}
+#logo-mobile{display:inline-block;text-indent:-9999px;font-size:0;line-height:0;height:50%;position:relative;top:25%;margin-left:10px}
+.beta-mobile{display:block;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;width:36px;height:20px;background:url(../images/ico-beta.gif) 0 0 no-repeat;font-size:0;line-height:0;text-indent:-9999px;margin-top:22px;margin-right:10px;}
+.mobile-menu-btn{display:block;width:auto;height:100%;font-size:0;line-height:0;background-color:#5c6369;}
+/*.panel{top:43px;left:auto;right:0px;width:375px;height:400px;box-shadow:0 0 0;z-index:1000}
+*/
+.panel{width:12vh;height:88vh;box-shadow:0 0 0;z-index:1000;position:relative;float:left;}
+.btn-toggle{display:none}
+
+.panel .header{display:none;width:100%;height:43px;padding:0;background:#434343;border-bottom:0}
+.panel .header .aux{display:none;margin:0 auto;width:92%;position:relative;height:43px}
+#logo{display:none;top:10px;left:0;background:url(../images/logo-small.gif) 0 0 no-repeat;width:194px;height:23px}
+.beta{display:none;top:11px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
+.language-switcher{display:none;right:auto;width:auto}
+.mobile-switcher{
+	display:block;
+	position:relative;
+	width:auto;
+}
+.panel .main{top:0px}
+
+#search-container{display:none}
+
+.panel-content-out{position:absolute;top:0px;left:0}
+
+
+#stopPopup table,#busPopup table{width:100%}
+
+#serverTime{display:none}
+
+
+.pophead h2{
+        float:left;
+}
+.pophead img{
+        float:right;
+        padding-right:15px;
+}
+#zoomToMyPosition{
+	display:block;
+}
+#zoomButtons{
+	width:8%;
+        top: 18%;
+
+}
+.map-controls,#zoomButtons{
+	right:5px;
+	z-index:1000;
+}
+.map-controls{
+	width:30%;
+}
+.map-controls .global{
+	width:auto;
+}
+.config,#zoomToMyPosition{
+	width:40%;
+}
+#switcheroo{
+        margin-right:4%;
+        margin-top:10%;
+        font-size:14px;
+        line-height:18px;
+        height:100%;
+        padding: 8px;
+        max-width:42%;
+}
+
+ul.menu,ul.menu li{
+	width:100%;
+	height:auto;
+}
+.close-modal{
+	width:13%;
+}
+.header{
+	display:none;
+}
+.modal{
+	height:88vh;
+	overflow:hidden;
+	float:none;
+	width:auto;
+}
+.modal:before{
+	width:140%;
+}
+.fullscreen{
+	width:100% !important;
+}
+.about-box{
+	width:90%;
+}
+.mobile-menu-btn svg{
+	height:100%;
+	width:auto;
+}
