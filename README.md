@@ -11,7 +11,10 @@ Widgets
 
 We provide the functionality of widgets for integration of single datasets into other websites. Widgets available are:
 * http://mobility.meran.eu/widgets/?theme=bus
+* http://mobility.meran.eu/widgets/?theme=walking
 * http://mobility.meran.eu/widgets/?theme=carsharing
+* http://mobility.meran.eu/widgets/?theme=bike
+* http://mobility.meran.eu/widgets/?theme=emobility
 * http://mobility.meran.eu/widgets/?theme=parking
 
 Setup your first client:
