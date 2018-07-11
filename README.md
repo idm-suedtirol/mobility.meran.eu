@@ -6,6 +6,14 @@ Furthermore it contains openlayers adapted for realtimebus/bus.meran.eu and the 
 
 If you want to add/change/remove layers you need to modify js/sasabus.js
 
+Widgets
+-------
+
+We provide the functionality of widgets for integration of single datasets into other websites. Widgets available are:
+* http://mobility.meran.eu/widgets/?theme=bus
+* http://mobility.meran.eu/widgets/?theme=carsharing
+* http://mobility.meran.eu/widgets/?theme=parking
+
 Setup your first client:
 ------------------------
 - Install a web server like apache with php 
