@@ -17,6 +17,14 @@ We provide the functionality of widgets for integration of single datasets into 
 * http://mobility.meran.eu/widgets/?theme=emobility
 * http://mobility.meran.eu/widgets/?theme=parking
 
+The widgets are available also on:
+* https://mobility.bz.it/widgets/?theme=bus
+* https://mobility.bz.it/widgets/?theme=walking
+* https://mobility.bz.it/widgets/?theme=carsharing
+* https://mobility.bz.it/widgets/?theme=bike
+* https://mobility.bz.it/widgets/?theme=emobility
+* https://mobility.bz.it/widgets/?theme=parking
+
 Setup your first client:
 ------------------------
 - Install a web server like apache with php 
