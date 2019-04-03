@@ -1,3 +1,14 @@
+DEPRECATED
+==========
+The source code in this repository was used for the client side of the mobility.meran.eu web app.
+
+The new code is available in the client folder of realtimebus repository:
+
+https://github.com/idm-suedtirol/realtimebus
+
+https://github.com/idm-suedtirol/realtimebus/tree/master/client
+
+
 Client-side of bus.meran.eu
 =============================
 
